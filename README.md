@@ -6,10 +6,10 @@ Hey! I'm Ivan, a Computer Engineering student focusing on Embedded Development a
 
 ## Contact me
 <a href="mailto:t3ry4mail@gmail.com" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/gmail-new.png" alt="email" width="40" height="40" style="background-color:white;"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/gmail-new.png" alt="email" width="40" height="40" />
 </a>
 <a href="https://t.me/t3ry444y" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/telegram-app.png" alt="Telegram" width="40" height="40" style="background-color:white;"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/telegram-app.png" alt="Telegram" width="40" height="40" />
 </a>
 
 
