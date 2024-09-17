@@ -56,8 +56,8 @@ Hey! I'm Ivan, a Computer Engineering student focusing on Embedded Development a
 |model-dkr|Done|[Go](https://github.com/t3ry4git/model-dkr "Go")|
 |os-lab1|Done|[Go](https://github.com/t3ry4git/os-lab1 "Go")|
 |os-lab2|Done|[Go](https://github.com/t3ry4git/os-lab2 "Go")|
-|os-lab3|Done(Abandoned)|Unavailable|
-|os-lab4|Done(Abandoned)|Unavailable|
+|os-lab3|Done(Abandoned) 😓|Unavailable|
+|os-lab4|Done(Abandoned) 😓|Unavailable|
 |os-rgr|Done|[Go](https://github.com/t3ry4git/os-rgr "Go")|
 
 </details>
