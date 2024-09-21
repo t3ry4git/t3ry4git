@@ -21,7 +21,7 @@ Hey! I'm Ivan, a Computer Engineering student focusing on Embedded Development a
 
 | Repository | Status | Link |
 |:----------:|:------:|:----:|
-|lisp-lab1|Done(not sent)|[Go](https://github.com/t3ry4git/lisp-lab1 "Go")|
+|lisp-lab1|Done(not defenced)|[Go](https://github.com/t3ry4git/lisp-lab1 "Go")|
 |comp-netwrks-lab1|Done(not defenced)|[Go](https://github.com/t3ry4git/comp-netwrks-lab1 "Go")|
 |comp-netwrks-lab2|Done(not sent)|[Go](https://github.com/t3ry4git/comp-netwrks-lab2 "Go")|
 |comp-netwrks-lab3|Done(not sent)|[Go](https://github.com/t3ry4git/comp-netwrks-lab3 "Go")|
