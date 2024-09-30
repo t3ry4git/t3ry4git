@@ -30,7 +30,7 @@ Hey! I'm Ivan, a Computer Engineering student focusing on Embedded Development a
 |comp-netwrks-lab6|Planned|Unavailable|
 |comp-netwrks-lab7|Planned|Unavailable|
 |comp-netwrks-lab8|Planned|Unavailable|
-|apks-lab1|In work|[Go](https://github.com/t3ry4git/apks-lab1 "Go")|
+|apks-lab1|Done(not defenced)|[Go](https://github.com/t3ry4git/apks-lab1 "Go")|
 |comp-schem-course-work|Done|[Go](https://github.com/t3ry4git/comp-schem-course-work "Go")|
 |comp-schem1|Done|[Go](https://github.com/t3ry4git/comp-schem1 "Go")|
 |comp-schem2|Done|[Go](https://github.com/t3ry4git/comp-schem2 "Go")|
