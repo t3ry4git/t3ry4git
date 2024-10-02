@@ -21,6 +21,7 @@ Hey! I'm Ivan, a Computer Engineering student focusing on Embedded Development a
 
 | Repository | Status | Link |
 |:----------:|:------:|:----:|
+|arch-comp-lab1|Done(not sent)|[Go](https://github.com/t3ry4git/arch-comp-lab1 "Go")|
 |comp-sys-lab1|In-progress|[Go](https://github.com/t3ry4git/comp-sys-lab1 "Go")|
 |lisp-lab1|Done(not defenced)|[Go](https://github.com/t3ry4git/lisp-lab1 "Go")|
 |lisp-lab2|Done(not defenced)|[Go](https://github.com/t3ry4git/lisp-lab2 "Go")|
