@@ -26,7 +26,7 @@ Hey! I'm Ivan, a Computer Engineering student focusing on Embedded Development a
 |lisp-lab1|Done|[Go](https://github.com/t3ry4git/lisp-lab1 "Go")|
 |lisp-lab2|Done|[Go](https://github.com/t3ry4git/lisp-lab2 "Go")|
 |lisp-lab3|Done|[Go](https://github.com/t3ry4git/lisp-lab3 "Go")|
-|lisp-lab4|Done(not defenced|[Go](https://github.com/t3ry4git/lisp-lab4 "Go")|
+|lisp-lab4|Done(not defenced)|[Go](https://github.com/t3ry4git/lisp-lab4 "Go")|
 |comp-netwrks-lab1|Done(not defenced)|[Go](https://github.com/t3ry4git/comp-netwrks-lab1 "Go")|
 |comp-netwrks-lab2|Done(not defenced)|[Go](https://github.com/t3ry4git/comp-netwrks-lab2 "Go")|
 |comp-netwrks-lab3|Done(not defenced)|[Go](https://github.com/t3ry4git/comp-netwrks-lab3 "Go")|
