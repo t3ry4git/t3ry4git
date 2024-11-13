@@ -21,6 +21,7 @@ Hey! I'm Ivan, a Computer Engineering student focusing on Embedded Development a
 
 | Repository | Status | Link |
 |:----------:|:------:|:----:|
+|system-pz-all-labs|WIP(1/9)|[Go](https://github.com/t3ry4git/system-pz-all-labs "Go")|
 |arch-comp-lab1|Done|[Go](https://github.com/t3ry4git/arch-comp-lab1 "Go")|
 |arch-comp-lab2|Done|[Go](https://github.com/t3ry4git/arch-comp-lab2 "Go")|
 |arch-comp-lab3|Done|[Go](https://github.com/t3ry4git/arch-comp-lab3 "Go")|
