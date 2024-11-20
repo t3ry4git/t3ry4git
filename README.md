@@ -28,6 +28,7 @@ Hey! I'm Ivan, a Computer Engineering student focusing on Embedded Development a
 |arch-comp-lab4|Done|[Go](https://github.com/t3ry4git/arch-comp-lab4 "Go")|
 |comp-sys-lab1|Done|[Go](https://github.com/t3ry4git/comp-sys-lab1 "Go")|
 |comp-sys-lab2|Done|[Go](https://github.com/t3ry4git/comp-sys-lab2 "Go")|
+|comp-sys-lab3|Done|[Go](https://github.com/t3ry4git/comp-sys-lab3 "Go")|
 |lisp-lab1|Done|[Go](https://github.com/t3ry4git/lisp-lab1 "Go")|
 |lisp-lab2|Done|[Go](https://github.com/t3ry4git/lisp-lab2 "Go")|
 |lisp-lab3|Done|[Go](https://github.com/t3ry4git/lisp-lab3 "Go")|
