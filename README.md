@@ -21,7 +21,7 @@ Hey! I'm Ivan, a Computer Engineering student focusing on Embedded Development a
 
 | Repository | Status | Link |
 |:----------:|:------:|:----:|
-|system-pz-all-labs|WIP(4/9)|[Go](https://github.com/t3ry4git/system-pz-all-labs "Go")|
+|system-pz-all-labs|WIP(6/9)|[Go](https://github.com/t3ry4git/system-pz-all-labs "Go")|
 |arch-comp-lab1|Done|[Go](https://github.com/t3ry4git/arch-comp-lab1 "Go")|
 |arch-comp-lab2|Done|[Go](https://github.com/t3ry4git/arch-comp-lab2 "Go")|
 |arch-comp-lab3|Done|[Go](https://github.com/t3ry4git/arch-comp-lab3 "Go")|
@@ -33,14 +33,16 @@ Hey! I'm Ivan, a Computer Engineering student focusing on Embedded Development a
 |lisp-lab2|Done|[Go](https://github.com/t3ry4git/lisp-lab2 "Go")|
 |lisp-lab3|Done|[Go](https://github.com/t3ry4git/lisp-lab3 "Go")|
 |lisp-lab4|Done(not defenced)|[Go](https://github.com/t3ry4git/lisp-lab4 "Go")|
-|comp-netwrks-lab1|Done(not defenced)|[Go](https://github.com/t3ry4git/comp-netwrks-lab1 "Go")|
-|comp-netwrks-lab2|Done(not defenced)|[Go](https://github.com/t3ry4git/comp-netwrks-lab2 "Go")|
-|comp-netwrks-lab3|Done(not defenced)|[Go](https://github.com/t3ry4git/comp-netwrks-lab3 "Go")|
+|lisp-lab5|Done(not defenced)|[Go](https://github.com/t3ry4git/lisp-lab5 "Go")|
+|comp-netwrks-lab1|Done|[Go](https://github.com/t3ry4git/comp-netwrks-lab1 "Go")|
+|comp-netwrks-lab2|Done|[Go](https://github.com/t3ry4git/comp-netwrks-lab2 "Go")|
+|comp-netwrks-lab3|Done|[Go](https://github.com/t3ry4git/comp-netwrks-lab3 "Go")|
 |comp-netwrks-lab4|Done(not defenced)|[Go](https://github.com/t3ry4git/comp-netwrks-lab4 "Go")|
 |comp-netwrks-lab5|Planned|Unavailable|
 |comp-netwrks-lab6|Planned|Unavailable|
 |comp-netwrks-lab7|Planned|Unavailable|
 |comp-netwrks-lab8|Planned|Unavailable|
+|comp-netwrks-lab9|Planned|Unavailable|
 |apks-lab1|Done|[Go](https://github.com/t3ry4git/apks-lab1 "Go")|
 |comp-schem-course-work|Done|[Go](https://github.com/t3ry4git/comp-schem-course-work "Go")|
 |comp-schem1|Done|[Go](https://github.com/t3ry4git/comp-schem1 "Go")|
