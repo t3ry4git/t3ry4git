@@ -37,7 +37,7 @@ Hey! I'm Ivan, a Computer Engineering student focusing on Embedded Development a
 |comp-netwrks-lab1|Done|[Go](https://github.com/t3ry4git/comp-netwrks-lab1 "Go")|
 |comp-netwrks-lab2|Done|[Go](https://github.com/t3ry4git/comp-netwrks-lab2 "Go")|
 |comp-netwrks-lab3|Done|[Go](https://github.com/t3ry4git/comp-netwrks-lab3 "Go")|
-|comp-netwrks-lab4|Done(not defenced)|[Go](https://github.com/t3ry4git/comp-netwrks-lab4 "Go")|
+|comp-netwrks-lab4|Done|[Go](https://github.com/t3ry4git/comp-netwrks-lab4 "Go")|
 |comp-netwrks-lab5|Planned|Unavailable|
 |comp-netwrks-lab6|Planned|Unavailable|
 |comp-netwrks-lab7|Planned|Unavailable|
