@@ -21,7 +21,7 @@ Hey! I'm Ivan, a Computer Engineering student focusing on Embedded Development a
 
 | Repository | Status | Link |
 |:----------:|:------:|:----:|
-|comp-netwrks-course-work|WIP(11/15)|[Go](https://github.com/t3ry4git/comp-netwrks-course-work "Go")|
+|comp-netwrks-course-work|WIP(12/15)|[Go](https://github.com/t3ry4git/comp-netwrks-course-work "Go")|
 |system-pz-all-labs|Done|[Go](https://github.com/t3ry4git/system-pz-all-labs "Go")|
 |arch-comp-lab1|Done|[Go](https://github.com/t3ry4git/arch-comp-lab1 "Go")|
 |arch-comp-lab2|Done|[Go](https://github.com/t3ry4git/arch-comp-lab2 "Go")|
