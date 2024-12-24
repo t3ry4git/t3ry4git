@@ -39,11 +39,10 @@ Hey! I'm Ivan, a Computer Engineering student focusing on Embedded Development a
 |comp-netwrks-lab2|Done|[Go](https://github.com/t3ry4git/comp-netwrks-lab2 "Go")|
 |comp-netwrks-lab3|Done|[Go](https://github.com/t3ry4git/comp-netwrks-lab3 "Go")|
 |comp-netwrks-lab4|Done|[Go](https://github.com/t3ry4git/comp-netwrks-lab4 "Go")|
-|comp-netwrks-lab5|Done(not defenced)|[Go](https://github.com/t3ry4git/comp-netwrks-lab5 "Go")|
-|comp-netwrks-lab6|Done(not defenced)|[Go](https://github.com/t3ry4git/comp-netwrks-lab6 "Go")|
-|comp-netwrks-lab7|Done(not defenced)|[Go](https://github.com/t3ry4git/comp-netwrks-lab7 "Go")|
-|comp-netwrks-lab8|Done(not defenced)|[Go](https://github.com/t3ry4git/comp-netwrks-lab8 "Go")|
-|comp-netwrks-lab9|Planned|Unavailable|
+|comp-netwrks-lab5|Done|[Go](https://github.com/t3ry4git/comp-netwrks-lab5 "Go")|
+|comp-netwrks-lab6|Done|[Go](https://github.com/t3ry4git/comp-netwrks-lab6 "Go")|
+|comp-netwrks-lab7|Done|[Go](https://github.com/t3ry4git/comp-netwrks-lab7 "Go")|
+|comp-netwrks-lab8|Done|[Go](https://github.com/t3ry4git/comp-netwrks-lab8 "Go")|
 |apks-lab1|Done|[Go](https://github.com/t3ry4git/apks-lab1 "Go")|
 |comp-schem-course-work|Done|[Go](https://github.com/t3ry4git/comp-schem-course-work "Go")|
 |comp-schem1|Done|[Go](https://github.com/t3ry4git/comp-schem1 "Go")|
