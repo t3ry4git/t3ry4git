@@ -21,8 +21,8 @@ Hey! I'm Ivan, a Computer Engineering student focusing on Embedded Development a
 
 | Repository | Status | Link |
 |:----------:|:------:|:----:|
-|comp-netwrks-lab9|Done(not defended)|[Go](https://github.com/t3ry4git/comp-netwrks-lab9 "Go")|
-|comp-netwrks-lab10|Planned|[Go](https://github.com/t3ry4git/comp-netwrks-lab10 "Go")|
+|comp-netwrks-lab9|Done|[Go](https://github.com/t3ry4git/comp-netwrks-lab9 "Go")|
+|comp-netwrks-lab10|Done(not defenced)|[Go](https://github.com/t3ry4git/comp-netwrks-lab10 "Go")|
 |comp-netwrks-lab11|Planned|[Go](https://github.com/t3ry4git/comp-netwrks-lab11 "Go")|
 |comp-netwrks-lab12|Planned|[Go](https://github.com/t3ry4git/comp-netwrks-lab12 "Go")|
 |comp-netwrks-lab13|Planned|[Go](https://github.com/t3ry4git/comp-netwrks-lab13 "Go")|
