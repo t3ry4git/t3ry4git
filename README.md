@@ -25,9 +25,9 @@ Hey! I'm Ivan, a Computer Engineering student focusing on Embedded Development a
 |comp-netwrks-lab10|Done|[Go](https://github.com/t3ry4git/comp-netwrks-lab10 "Go")|
 |comp-netwrks-lab11|Done|[Go](https://github.com/t3ry4git/comp-netwrks-lab11 "Go")|
 |comp-netwrks-lab12|Done|[Go](https://github.com/t3ry4git/comp-netwrks-lab12 "Go")|
-|comp-netwrks-lab13|Done(group, not defenced)|Unavailable|
-|comp-netwrks-lab14|Done(group, not defenced)|Unavailable|
-|comp-netwrks-lab15|Done(group, not defenced)|Unavailable|
+|comp-netwrks-lab13|Done(group)|Unavailable|
+|comp-netwrks-lab14|Done(group)|Unavailable|
+|comp-netwrks-lab15|Done(group)|Unavailable|
 |comp-netwrks-course-work|Done|[Go](https://github.com/t3ry4git/comp-netwrks-course-work "Go")|
 |system-pz-all-labs|Done|[Go](https://github.com/t3ry4git/system-pz-all-labs "Go")|
 |arch-comp-lab1|Done|[Go](https://github.com/t3ry4git/arch-comp-lab1 "Go")|
